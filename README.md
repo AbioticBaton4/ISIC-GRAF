@@ -46,11 +46,12 @@ El repositorio esta organizado en las 5 unidades que marca el programa educativo
 ### Unidad 1: Introduccion a la graficacion por computadora
 Conceptos fundamentales, modelos matematicos, modelos de color y el hardware detras de la graficacion.
 * [1.1 Historia y evolucion de la graficacion por computadora](Unidad_1_Introduccion/1.1_Historia_y_evolucion.md)
-* [1.2 Formatos de imagenes](Unidad_1_Introduccion/1.2_Formatos_de_imagenes.md)
-* [1.3 Modelos del color: RBG, CMY, HSV y HSL](Unidad_1_Introduccion/1.3_Modelos_del_color.md)
-* [1.4 Hardware grafico](Unidad_1_Introduccion/1.4_Hardware_grafico.md)
+* [1.2  Áreas de aplicación.](Unidad_1_Introduccion/1.2_Areas_applicacion.md)
+* [1.3 Aspectos matemáticos de la graficación.](Unidad_1_Introduccion/1.3_Aspectos_Matematicos.md)
+* [1.4 Modelos del color: RBG, CMY, HSV y HSL.](Unidad_1_Introduccion/1.4_Modelos_del_color.md)
 * [1.5 Representacion y trazo de lineas y poligonos](Unidad_1_Introduccion/1.5_Representacion_y_trazo.md)
-* [1.6 Procesamiento de mapas de bits](Unidad_1_Introduccion/1.6_Procesamiento_mapas_bits.md)
+* [1.6 Formatos de imagen.](Unidad_1_Introduccion/1.6_Formatos_de_imagenes.md)
+* [1.7 Procesamiento de mapas de bits](Unidad_1_Introduccion/1.6_Procesamiento_mapas_bits.md)
 
 ### Unidad 2: Graficacion 2D
 Desarrollo y aplicacion de modelos de graficacion y transformacion bidimensional.
